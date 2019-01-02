@@ -7,7 +7,7 @@ comments: true
 # 关于美男的实锤，以截图、数据为主，本店招牌，口感比较冷硬。
 
 
-    食用注意:所有"▲"标示的地方都可以点击这一行展开或收起。所有"*"标示的地方都还没有搬过来，正在不断完善中。
+    食用注意:所有"▲"标示的地方都可以点击这一行展开或收起。正在不断完善中，送锤/澄清请往天涯烧饼铺。
 
 ---
 
@@ -184,7 +184,7 @@ comments: true
 <details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a> | <a href="{{ site.baseurl }}/2018/11/从兔区看撕逼缘何而起">从兔区坟帖看撕逼起源</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从微博关联看捆绑营销">从微博关联看捆绑营销</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
 </ul>
@@ -236,6 +236,8 @@ comments: true
 <details open><summary>3.3.3 杨紫方对此的表态:欠下的总要偿还</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/杨紫工作室网暴声明">11月23日工作室网暴声明</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/杨紫方拒绝捆绑合集">杨紫工作室拒绝捆绑合集</a></li>
+<li><details><summary>点击就看杨紫反黑组点名邓伦粉丝长期无故辱骂</summary>
+<img src="{{ site.baseurl }}/images/304023701.jpg"></details></li>
 </ul></details>
 </ul>
 
