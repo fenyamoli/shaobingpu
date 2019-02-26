@@ -150,6 +150,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌</a> | <a href="{{ site.baseurl }}/2018/11/洁癖人设崩塌">洁癖人设崩塌</a></li>
 <li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
 <li><details><summary>点击就看身高185的高个伦</summary><img src="{{ site.baseurl }}/images/302391776.jpg"><img src="{{ site.baseurl }}/images/302481726.jpg"></details></li>
+<li><a target="_blank" href="https://weibo.com/tv/v/Hc7b4nv5g?fid=1034:4328875287635289">点击就看引吭高歌伦</a></li>
 <li><a href="https://c.m.163.com/news/a/D7SS0H640517N9K6.html?spss=newsapp&spsw=1">网易:邓伦无视禁烟标志吞云吐雾</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/疑似校友爆料">校友爆料早恋打架的退校经历</a></li>
 </ul></details>
@@ -350,7 +351,8 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a> | <a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯版主被挂事件">天涯版主被挂事件</a> | <a href="{{ site.baseurl }}/2018/11/故宫小姐姐被投诉事件">故宫小姐姐被投诉事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a> | <a href="{{ site.baseurl }}/2018/11/网友受害情况节选#dxjjj">路人正常评论被挂黑追杀</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣扒邓粉批皮黑知否">豆瓣邓粉批皮黑挑知否事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/豆瓣扒邓粉批皮日常">豆瓣扒邓粉反装忠忠装反日常</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣扒邓粉批皮黑知否">豆瓣邓粉批皮黑挑知否事件</a></li>
 </ul></details>
 </ul>
 
