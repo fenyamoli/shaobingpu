@@ -106,6 +106,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a> | <a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集">微博数据注水实锤集</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/前邓伦粉爆料买榜操作">前邓粉爆买榜操作</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集#dxja">公益微博买转被官方清除</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博流量脱水现场">数据流分析流量数据脱水现场</a> | <a href="{{ site.baseurl }}/2018/11/超话水军现形记">超话水军现形记</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
@@ -196,6 +197,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中内网海军控舆实效</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博评论分析">大数据分析香蜜官博中评论情况</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/同期演员热度比较#dxjjf">剧播期间v榜数据变化</a> | <a href="{{ site.baseurl }}/2018/11/同期演员热度比较#dxjje">剧播期间德塔文数据变化</a></li>
 </ul></details>
 
 <details><summary>3.1.3 受累对象: 点击就看复联成员名单</summary><img src="{{ site.baseurl }}/images/fulian.jpg"></details>
@@ -214,6 +216,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">香蜜官博骚操作总结</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/粉群撕逼恶性针对">持续数月的粉群撕逼恶性针对</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/大粉在线教买小号辱骂事件">大粉教买小号辱骂事件</a> | <a href="{{ site.baseurl }}/2018/11/吧主为前同事养蛊事件">吧主修改百科词条事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">知乎扒大粉匿名黑人事件</a> | <a href="{{ site.baseurl }}/2018/11/知乎彩虹屁抄袭反挂黑原作者事件">抄袭彩虹屁反挂黑原作者事件</a></li>
 <li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
 </ul></details>
 
@@ -368,6 +371,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
 <li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
 <li><details><summary>点击就看微博上成立b站捧场组</summary><img src="{{ site.baseurl }}/images/304477100.jpg"></details></li>
+<li><details><summary>点击就看本人亲自投诉删微博</summary><img src="{{ site.baseurl }}/images/307885557.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.3.2 兔区删帖封号 微博当场去世 天涯轰然坍塌</summary>
@@ -388,6 +392,7 @@ comments: true
 <details open><summary>4.4.1 邓伦粉圈对未成年粉丝的心理影响</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/后援会负责人群内发言">问题后援会负责人群内言论:粉群素质可见一斑</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">14岁前粉聊天记录:人手几十个小号 粉群辱骂蔚然成风</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/蜜壶事件始末">蜜壶事件始末:支持偶像不应对错不分</a></li>
 <li><details><summary>点击就看香蜜剧群撕完男二撕女主</summary><img src="{{ site.baseurl }}/images/303672513.jpg"><img src="{{ site.baseurl }}/images/303672521.jpg"><img src="{{ site.baseurl }}/images/303672525.jpg"></details></li>
 </ul></details>
 
@@ -409,8 +414,9 @@ comments: true
 <ul>
 <details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></summary></details>
 
-<details open><summary>4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/邓伦工作室网暴声明合集">邓伦工作室网暴声明合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/邓伦亲联反黑组">邓伦亲联反黑组</a></li>
 </ul></details>
 </ul>
 
