@@ -40,7 +40,9 @@ comments: true
 <li><a href="{{ site.baseurl}}/2018/11/后援会工作室背后疑云">饼芯姐姐爆料后援会工作室问题重重</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/腾讯视频娱乐对比各家粉圈">快本应援惊世骇俗538 附各家粉圈对比</a></li>
 
-<li><a href="{{ site.baseurl}}/2018/11/活动现场肢体冲突">品牌活动门票疑团 活动现场肢体冲突</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/活动现场肢体冲突事件">品牌活动门票疑团 活动现场肢体冲突</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/大粉因集资账目问题退圈">大粉因集资账目问题退圈</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/集资购杂志锁单事件">大量集资购杂志 不去秒切称锁单 账目不平留后看</a></li>
 </ul></details>
 
 
@@ -108,17 +110,19 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/前邓伦粉爆料买榜操作">前邓粉爆买榜操作</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集#dxja">公益微博买转被官方清除</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博流量脱水现场">数据流分析流量数据脱水现场</a> | <a href="{{ site.baseurl }}/2018/11/超话水军现形记">超话水军现形记</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a> | <a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/直播显示活粉数堪忧">直播显示邓伦活粉数堪忧</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
 </ul></details>
 
 <details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/兔区海军名远扬">兔区海军名远扬</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆实效</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">香蜜N问:大数据分析香蜜中海军控舆实效</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/已故同事微博成邓粉">已故同事微博成邓伦粉丝</a></li>
 <li><details><summary>点击就看邓伦数据粉群入组要求</summary><img src="{{ site.baseurl }}/images/v2-202649dc4c17fb8d287bbff6545c3294_hd.jpg"></details></li>
 <li><details><summary>点击就看邓伦粉丝准备300个号冲榜</summary><img src="{{ site.baseurl }}/images/303780328.jpg"></details></li>
+<li><details><summary>点击就看向200粉丝发900控评小号</summary><img src="{{ site.baseurl }}/images/309395704.jpg"></details></li>
 </ul></details>
 
 <details open><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
@@ -133,8 +137,8 @@ comments: true
 <details open><summary>2.2.1 收视小福星: 伦显视跌 伦消视涨 伦存视亡</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/伦消视涨伦存视亡">香蜜/1001夜的收视率与邓伦出场时长负相关</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/故宫新综艺伦现视跌">故宫新综艺伦现视跌</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜后快本收视又天坑">香蜜后快本收视又天坑</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/故宫新综艺伦现视跌">故宫新综艺伦现视跌</a> | <a href="{{ site.baseurl }}/2018/11/香蜜后快本收视又天坑">香蜜后快本收视又天坑</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/收视小福星变系数小福星">收视小福星变系数小福星</a> | <a href="{{ site.baseurl }}/2018/11/数据分析加油收视造假">数据分析加油收视造假</a></li>
 </ul></details>
 
 <details open><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
@@ -143,12 +147,15 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/滚筒洗衣机从不自行练习">滚筒洗衣机不自行练习 兔区美男楼撷英</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/现场工作人员爆料">疑似香蜜现场工作人员爆料</a></li>
+<li><details><summary>点击就看每次最后到场的邓大咖</summary><img src="{{ site.baseurl }}/images/309486084.jpg"></details></li>
 </ul></details>
 
-<details open><summary>2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary>
+<details open><summary>2.2.3 学霸校草苏: 飚脏 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/邓伦访谈现场节选">学霸人设崩塌 综艺访谈现场集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/篮球综艺WCNM事件">录节目耍大牌飚脏话 对国家裁判WCNM</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌</a> | <a href="{{ site.baseurl }}/2018/11/洁癖人设崩塌">洁癖人设崩塌</a></li>
+<li><details><summary>点击就看篮球WCNM综艺的躁狂伦</summary><img src="{{ site.baseurl }}/images/umQEV0.gif"></details></li>
 <li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
 <li><details><summary>点击就看身高185的高个伦</summary><img src="{{ site.baseurl }}/images/302391776.jpg"><img src="{{ site.baseurl }}/images/302481726.jpg"></details></li>
 <li><a target="_blank" href="https://weibo.com/tv/v/Hc7b4nv5g?fid=1034:4328875287635289">点击就看引吭高歌伦</a></li>
@@ -216,7 +223,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">香蜜官博骚操作总结</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/粉群撕逼恶性针对">持续数月的粉群撕逼恶性针对</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/大粉在线教买小号辱骂事件">大粉教买小号辱骂事件</a> | <a href="{{ site.baseurl }}/2018/11/吧主为前同事养蛊事件">吧主修改百科词条事件</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">知乎扒大粉匿名黑人事件</a> | <a href="{{ site.baseurl }}/2018/11/知乎彩虹屁抄袭反挂黑原作者事件">抄袭彩虹屁反挂黑原作者事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">知乎扒大粉匿名黑人事件</a> | <a href="{{ site.baseurl }}/2018/11/知乎扒彩虹屁抄袭事件">抄袭彩虹屁反挂黑原作者事件</a></li>
 <li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
 </ul></details>
 
@@ -224,7 +231,16 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/1001夜男二受网暴情况">1001夜男二受网暴情况</a></li>
 </ul></details>
+
+<details open><summary>3.2.3 真朋友相关: 避无可避 真朋友变假朋友</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/粉丝超前内涵真朋友男二">粉丝超前一年内涵男二</a> | <a href="{{ site.baseurl }}/2018/11/知乎批皮挑事相关#dxjjb">知乎掐挑两任男二</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/集资购杂志锁单事件">集资购杂志锁单事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/真朋友男二虚假网站事件">真朋友男二虚假网站事件</a></li>
+<li><details><summary>点击就看真朋友主演黑粉头号是邓伦</summary><img src="{{ site.baseurl }}/images/309307547.jpg"></details></li>
+</ul></details>
 </ul>
+
 
 3.3 插刀: 如果你有个邓伦一样的好朋友
 <ul>
@@ -263,7 +279,9 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/一条手链引发的血案">一条手链引发的血案</a> | <a href="{{ site.baseurl }}/2018/11/一条手链引发的血案#dxjjb">对手链血案的澄清</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/当海军走错片场">当海军走错片场</a> | <a href="{{ site.baseurl }}/2018/11/这次海军走对了片场">这次海军走对了片场</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/豆瓣扒到底是谁在推谣言">疑邓粉在豆瓣散布谣言</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/素质三连与金晨回应">素质三连与金晨回应</a></li>
 </ul></details>
+
 <details open><summary>3.4.2 绯闻女友炒作情况: 一次合作炒一个CP</summary>
 <ul>
 <li><details><summary>点击就看到处撩骚的自持伦</summary>
@@ -288,13 +306,38 @@ comments: true
 
 <details open><summary><a href="{{ site.baseurl }}/2018/11/撕番撕戏份相关#dxjjc">3.5.3 真朋友相关</a></summary>
 </details>
-
-
 </ul>
 
-3.6 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
+3.6 封杀: 如果你是个提出批评的观众
 
-<ul><details><summary><a href="{{ site.baseurl }}/2018/11/打脸邓伦的各种洗白说法">3.6.1 打脸为邓伦本人洗白的各种说法</a></summary></details></ul>
+<ul>
+<details open><summary>3.6.1 豆瓣锁场赶人 知乎折叠降赞 b站举报下架 </summary>
+<ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣香蜜组成邓伦专场</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣撕胯组事迹">豆瓣撕胯组事迹</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a> | <a href="{{ site.baseurl }}/2018/11/知乎提问背后的恶意">知乎提问被恶意篡改</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
+<li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
+<li><details><summary>点击就看微博上成立b站捧场组</summary><img src="{{ site.baseurl }}/images/304477100.jpg"></details></li>
+</ul></details>
+
+<details open><summary>3.6.2 兔区删帖封号 微博当场去世 天涯轰然坍塌</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区虚安理由强封号">兔区虚安理由强封号事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
+<li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
+<li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"><img src="{{ site.baseurl }}/images/306084565.jpg"></details></li>
+<li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
+<li><details><summary>点击就看微博锤饼被本人举报</summary><img src="{{ site.baseurl }}/images/306996190.jpg"></details></li>
+<li><details><summary>点击就看豆瓣锤帖被本人删帖</summary><img src="{{ site.baseurl }}/images/IMG_5019.PNG"></details></li>
+</ul></details>
+
+
+3.7 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
+
+<ul><details><summary><a href="{{ site.baseurl }}/2018/11/邓伦访谈现场节选#dxjjr">3.7.1 邓伦访谈:粉丝有权掐架辩白</a></summary></details></ul>
+
+<ul><details><summary><a href="{{ site.baseurl }}/2018/11/打脸邓伦的各种洗白说法">3.7.2 打脸为邓伦本人洗白的各种说法</a></summary></details></ul>
+</ul>
 </ul>
 
 <a class="anchor" name="dxjjd"></a>
@@ -312,7 +355,8 @@ comments: true
 
 <details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a> | <a href="{{ site.baseurl }}/2018/11/总结邓伦粉打脸神逻辑">海军打脸神逻辑</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a> | <a href="{{ site.baseurl }}/2018/11/总结邓伦粉打脸神逻辑">海军打脸神逻辑</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯爆笑掉皮</a> | <a href="{{ site.baseurl }}/2018/11/兔区真朋友相关掉皮事件">兔区真朋友相关掉皮</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/信口造谣卡黑澄清">疑邓伦粉信口造谣 反黑组卡黑澄清声明</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/对造谣加戏的澄清">出场时长精确统计 澄清加戏谣言</a></li>
 </ul></details></ul>
@@ -323,6 +367,7 @@ comments: true
 <details open><summary>4.2.1 香蜜原作编剧遭造谣辱骂 或关博或停更</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/网暴徐编电线">网暴徐编电线的微博账号成分统计</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/候鸟作者谈邓伦角色">候鸟作者盈风答粉丝私信 评价邓伦角色</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/加油编剧怼邓伦粉丝">加油新剧编剧开怼邓粉 劝做数据</a></li>
 <li><details><summary>点击就看香蜜艺术总监:敬畏之心被黑子碾压</summary><img src="{{ site.baseurl }}/images/302267432.jpg"></details></li>
 <li><details><summary>点击就看疑邓伦粉发言:骂作者得两千赞</summary><img src="{{ site.baseurl }}/images/302752341.jpg"></details></li>
 </ul></details>
@@ -346,9 +391,11 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/邓伦大粉的战斗力">微博大粉带头撕逼</a> | <a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a> | <a href="{{ site.baseurl }}/2018/11/占热搜屠广场">占热搜屠广场</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a> | <a href="{{ site.baseurl }}/2018/11/微博盘点精分灯芯">微博盘点精分灯芯大粉</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">微博大粉被扒出在知乎匿名黑人</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">微博大粉在知乎匿名黑人</a> | <a href="{{ site.baseurl }}/2018/11/知乎批皮挑事相关">知乎上掐挑男二骚操作</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/快本现场战吴宣仪粉">快本现场战吴宣仪粉</a> | <a href="{{ site.baseurl }}/2018/11/综艺番位撕李易峰粉">综艺番位撕李易峰粉</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 <li><details><summary>点击就看粉群自白"定期嘲一下才不会变态"</summary><img src="{{ site.baseurl }}/images/303943872.jpg"></details></li>
+<li><details><summary>点击就看灯芯姐姐回应集资甩锅问题的方式</summary><img src="{{ site.baseurl }}/images/309885217.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
@@ -362,41 +409,19 @@ comments: true
 </ul></details>
 </ul>
 
-4.3 六界封杀
+
+
+4.3 影响
 
 <ul>
-<details open><summary>4.3.1 豆瓣锁场赶人 知乎折叠降赞 b站举报下架 </summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣香蜜组成邓伦专场</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣撕胯组事迹">豆瓣撕胯组事迹</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a> | <a href="{{ site.baseurl }}/2018/11/知乎提问背后的恶意">知乎提问被恶意篡改</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
-<li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
-<li><details><summary>点击就看微博上成立b站捧场组</summary><img src="{{ site.baseurl }}/images/304477100.jpg"></details></li>
-<li><details><summary>点击就看本人亲自投诉删微博</summary><img src="{{ site.baseurl }}/images/307885557.jpg"></details></li>
-</ul></details>
-
-<details open><summary>4.3.2 兔区删帖封号 微博当场去世 天涯轰然坍塌</summary>
-<ul>
-<li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/兔区虚安理由强封号">兔区虚安理由强封号事件</a></li>
-<li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
-<li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"><img src="{{ site.baseurl }}/images/306084565.jpg"></details></li>
-<li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
-<li><details><summary>点击就看微博锤饼被本人举报</summary><img src="{{ site.baseurl }}/images/306996190.jpg"></details></li>
-<li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
-</ul></details>
-</ul>
-
-4.4 影响
-
-<ul>
-<details open><summary>4.4.1 邓伦粉圈对未成年粉丝的心理影响</summary>
+<details open><summary>4.3.1 邓伦粉圈对未成年粉丝的心理影响</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/后援会负责人群内发言">问题后援会负责人群内言论:粉群素质可见一斑</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">14岁前粉聊天记录:人手几十个小号 粉群辱骂蔚然成风</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/蜜壶事件始末">蜜壶事件始末:支持偶像不应对错不分</a></li>
 <li><details><summary>点击就看香蜜剧群撕完男二撕女主</summary><img src="{{ site.baseurl }}/images/303672513.jpg"><img src="{{ site.baseurl }}/images/303672521.jpg"><img src="{{ site.baseurl }}/images/303672525.jpg"></details></li>
 </ul></details>
 
-<details open><summary>4.4.2 饼芯姐姐谈邓伦及团队存在的问题</summary>
+<details open><summary>4.3.2 饼芯姐姐谈邓伦及团队存在的问题</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/前邓伦粉脱粉经历合集">前邓伦粉脱粉经历合集:粉圈过度催买 撕逼风气恶劣是主因</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/一位前邓伦粉的咏炭劝学">一位前邓伦粉的咏炭劝学</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一位天涯人的脱粉现场">一位天涯人的脱粉现场</a></li>
@@ -409,13 +434,14 @@ comments: true
 
 </ul>
 
-4.5 与邓本伦的关系
+4.4 与邓本伦的关系
 
 <ul>
-<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></summary></details>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.4.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></summary></details>
 
-<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.4.2 对待自家网络暴力的反噬 不应一味扮演受害者</a></summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/邓伦工作室网暴声明合集">邓伦工作室网暴声明合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/篮球综艺WCNM事件#dxjjg">邓伦工作室WCNM联合声明</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓伦亲联反黑组">邓伦亲联反黑组</a></li>
 </ul></details>
 </ul>
